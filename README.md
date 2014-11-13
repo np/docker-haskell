@@ -1,3 +1,5 @@
+[![Docker Repository on Quay.io](https://quay.io/repository/np__/haskell/status "Docker Repository on Quay.io")](https://quay.io/repository/np__/haskell)
+
 ![image](https://github.com/darinmorrison/docker-haskell/blob/master/logo.png?raw=true)
 
 ---
